@@ -1,4 +1,4 @@
-# 🏠 Multimodal Housing Price Prediction System
+# 🏠  Multimodal Housing Price Prediction System
 
 A state-of-the-art multimodal deep learning model that predicts housing prices by combining **tabular data** (house features) with **visual features** extracted from house images using a pre-trained CNN (ResNet-18).
 
